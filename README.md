@@ -89,5 +89,14 @@ pip install pandas numpy scikit-learn
 
 python main.py
 
+---
 
+## Learning Outcomes
+- Built a complete ML pipeline from scratch
+- Gained experience with reusable preprocessing pipelines
+- Learned how to persist and reuse trained models
+
+---
+
+## Author - Aviraj Singh
 
