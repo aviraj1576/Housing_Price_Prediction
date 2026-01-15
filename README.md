@@ -36,8 +36,7 @@ projectX/
 - ├── input.csv # Test data for inference
 - ├── output.csv # Model predictions
 - ├── main.py # Training & inference pipeline
-- ├── model.pkl # Trained ML model
-- ├── Pipleine.pkl # Data preprocessing pipeline
+- ├── .gitignore 
 - ├── README.md # Project documentation
 
 
