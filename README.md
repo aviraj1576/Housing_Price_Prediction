@@ -31,14 +31,14 @@ The goal of this project is to gain hands-on experience with **real-world ML pip
 
 ## 📂 Project Structure
 projectX/
-│
-├── housing.csv # Original dataset
-├── input.csv # Test data for inference
-├── output.csv # Model predictions
-├── main.py # Training & inference pipeline
-├── model.pkl # Trained ML model
-├── Pipleine.pkl # Data preprocessing pipeline
-├── README.md # Project documentation
+-│
+-├── housing.csv # Original dataset
+-├── input.csv # Test data for inference
+-├── output.csv # Model predictions
+-├── main.py # Training & inference pipeline
+-├── model.pkl # Trained ML model
+-├── Pipleine.pkl # Data preprocessing pipeline
+-├── README.md # Project documentation
 
 
 ---
@@ -76,9 +76,9 @@ projectX/
 ## ▶️ How to Run the Project
 
 ### Step 1: Clone the repository
-
-git clone <your-repo-link>
-cd housing
+navigate to the favourable folder and run following commands in terminal
+git init
+git clone https://github.com/aviraj1576/Housing_Price_Prediction.git
 
 ### Step 2: Installing Dependencies
 
